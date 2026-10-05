@@ -1,1 +1,10 @@
 git-files.txt
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+git-files.txt
